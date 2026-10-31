@@ -28,7 +28,7 @@ The installer checks these and offers to install the missing ones (pacman, apt, 
 ## Install
 
 ```bash
-git clone https://github.com/YOUR-USER/spotify-auto-pause.git
+git clone https://github.com/DougiBanana/spotify-auto-pause.git
 cd spotify-auto-pause
 ./install.sh
 ```
