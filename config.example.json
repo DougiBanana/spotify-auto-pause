@@ -1,0 +1,7 @@
+{
+  "player": "spotify",
+  "trigger_apps": ["firefox", "chrom", "brave", "vivaldi", "opera", "vlc", "mpv", "webrtc"],
+  "ignore_apps": [],
+  "debounce_seconds": 0.5,
+  "verbose": false
+}
