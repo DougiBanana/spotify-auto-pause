@@ -16,6 +16,8 @@ Um serviço pequeno em segundo plano (serviço de usuário do systemd) observa o
 
 ## Requisitos
 
+*Essa ferramenta é exclusiva para sistemas Linux, sinta-se livre para forkar um port para windows*
+
 | Precisa de | Pacote (Arch) | Pacote (Debian/Ubuntu, Fedora, openSUSE) |
 |---|---|---|
 | Python 3 | `python` | `python3` |
