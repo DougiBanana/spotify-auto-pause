@@ -8,6 +8,9 @@ Português: veja [README.pt-BR.md](README.pt-BR.md).
 
 A small background service (systemd user service) watches the audio streams of your system. When an app on your trigger list (a browser, VLC, mpv, a call...) starts playing sound, Spotify is paused. When that sound stops, Spotify is resumed.
 
+
+*this tool is Linux only, feel free to fork it to windows*
+
 - Only Spotify is ever controlled. The app that triggered the pause is never touched.
 - Spotify's own audio never counts as a trigger.
 - Apps that are not on the trigger list (games, for example) never pause Spotify.
