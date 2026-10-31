@@ -28,7 +28,7 @@ O instalador confere tudo isso e oferece instalar o que faltar (suporta pacman, 
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/spotify-auto-pause.git
+git clone https://github.com/DougiBanana/spotify-auto-pause.git
 cd spotify-auto-pause
 ./install.sh
 ```
